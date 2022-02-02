@@ -11,6 +11,7 @@ brew install fzf
 brew install git
 brew install glances
 brew install htop
+brew install httpie
 brew install jq
 brew install ripgrep
 brew install tldr

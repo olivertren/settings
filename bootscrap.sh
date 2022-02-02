@@ -10,6 +10,7 @@ brew intsall freetype
 brew install fzf
 brew install git
 brew install glances
+brew install htop
 brew install jq
 brew install ripgrep
 brew install tldr
@@ -18,10 +19,13 @@ brew install zplug
 
 brew install pyenv
 brew install pyenv-virtualenv
+brew install wget
 brew install readline
 brew install openssl@1.1
 brew install openssl@3
 brew install freetype
+brew install zlib
+brew install bzip2
 
 brew tap homebrew/cask-fonts
 brew install --cask font-jetbrains-mono-nerd-font

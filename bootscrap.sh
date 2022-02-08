@@ -9,12 +9,14 @@ brew install fd
 brew intsall freetype
 brew install fzf
 brew install git
+brew install gitmoji
 brew install glances
 brew install htop
 brew install httpie
 brew install jq
 brew install ripgrep
 brew install tldr
+brew install vim
 brew install zplug
 
 

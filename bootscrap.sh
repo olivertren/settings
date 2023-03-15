@@ -14,6 +14,7 @@ brew install glances
 brew install htop
 brew install httpie
 brew install jq
+brew install pandoc
 brew install ripgrep
 brew install tldr
 brew install vim
@@ -25,7 +26,6 @@ brew install pyenv-virtualenv
 brew install wget
 brew install readline
 brew install openssl@1.1
-brew install openssl@3
 brew install freetype
 brew install zlib
 brew install bzip2
